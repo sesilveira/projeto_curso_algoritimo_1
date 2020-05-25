@@ -1,21 +1,4 @@
-/*Var
-// Seção de Declarações das variáveis 
-// so vai sair da estrutura quando o usuário digitar sair
-   sairLoop: caractere
-   valor01, valor02: real
 
-Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
-   repita
-       escreva("Digite o primeiro valor: ")
-       leia(valor01)
-       escreva("Didite o segundo valor: ")
-       leia(valor02)
-       escreval("Resultado: ", valor01 + valor02)
-       escreval("Deseja sair? S/N")
-       leia(sairLoop)
-   ate sairLoop <> "N"
-   */
 function acaoBotao(){
     var valor01, valor02, sairLoop
 do {
